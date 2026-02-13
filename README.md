@@ -62,7 +62,7 @@ This application exceeds standard requirements by implementing advanced reliabil
 git clone https://github.com/jhanerose/python-prelim-grade-calculator.git
 cd python-prelim-grade-calculator
 ```
-**Option B: **
+**Option B: Direct Download**
 1. Download the jhane_rose_sadicon_midterm.py file.
 2. Open your terminal or command prompt.
 3. Navigate to the folder where you saved the file:
