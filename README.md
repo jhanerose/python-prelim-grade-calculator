@@ -23,7 +23,7 @@ Prelim Grade (Exam Component) = Prelim Exam × 30%
 
 **Final Prelim Grade**  
 Final Prelim Grade = Class Standing Grade + Prelim Grade (Exam Component)
-    --- 
+    
 
 ## 🚀 Key Features
 
